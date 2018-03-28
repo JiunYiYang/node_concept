@@ -1,0 +1,7 @@
+Hello World!
+Hello World by node v9!
+Hello World by appendFileSync!
+Hello abao!
+Hello abao at node v9!Hello abao at node v9!
+Hello abao, you're already 23!
+Hello abao, you're already 23!
